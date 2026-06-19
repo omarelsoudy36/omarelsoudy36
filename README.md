@@ -1,3 +1,5 @@
+![GitHub Banner](banner.png)
+
 # Hi there, I'm Omar Elsoudy! 👋
 
 I am a passionate **Junior Data Engineer** and a student of **Communications and Computer Engineering**. I love working with data, building pipelines, and uncovering insights. I am always eager to learn new technologies and improve my skills in the data ecosystem.
