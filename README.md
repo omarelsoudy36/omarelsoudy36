@@ -1,14 +1,33 @@
 ![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
+# Hi there, I'm Omar Elsoudy! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+I am a passionate **Junior Data Engineer** and a student of **Communications and Computer Engineering**. I love working with data, building pipelines, and uncovering insights. I am always eager to learn new technologies and improve my skills in the data ecosystem.
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+---
+
+## 👨‍💻 About Me:
+- 🎓 **Education:** Student in **Communications and Computer Engineering**.
+- 🚀 **Role:** Junior Data Engineer.
+- 🎯 **Current Focus:** Deepening my knowledge in Data Architecture and Cloud Platforms.
+- 💬 **Ask me about:** Python scripting and writing optimized SQL queries.
+
+---
+
+## ⚡ Skills & Tools:
+
+### 🗄️ Data & Databases
+![SQL](https://shields.io)
+
+### 🐍 Programming Languages
+![Python](https://shields.io)
+
+---
+
+## 🌐 Connect with Me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/omar-elsoudy-991146389?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![Gmail Badge](https://shields.io)](mailto:omarelsoudy36@gmail.com)
+
+---
+⚡ *“In God we trust, all others must bring data.”*
