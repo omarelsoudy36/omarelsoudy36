@@ -24,13 +24,9 @@ I am a passionate **Junior Data Engineer** and a student of **Communications and
 
 ## 🌐 Connect with Me:
 
-<a href="[https://linkedin.com](https://www.linkedin.com/in/omar-elsoudy-991146389?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
-  <img src="https://shields.io" alt="LinkedIn">
-</a>
+- 📇 **LinkedIn:** [://linkedin.com][(https://linkedin.com](https://www.linkedin.com/in/omar-elsoudy-991146389?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+- 📧 **Email:** [omar@gmail.com](mailto:omarelsoudy36@gmail.com)
 
-<a href="mailto:omarelsoudy36@gmail.com">
-  <img src="https://shields.io" alt="Gmail">
-</a>
 
 ---
 ⚡ *“In God we trust, all others must bring data.”*
