@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="banner png" src="https://github.com/user-attachments/assets/b32e3941-6995-406f-85a5-12ecd519826d" />
 ![GitHub Banner](banner.png)
 
 # Hi there, I'm Omar Elsoudy! 👋
