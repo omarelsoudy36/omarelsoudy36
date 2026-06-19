@@ -15,10 +15,10 @@ I am a passionate **Junior Data Engineer** and a student of **Communications and
 ## ⚡ Skills & Tools:
 
 ### 🗄️ Data & Databases
-- **SQL** (PostgreSQL / MySQL)
+- **SQL** (Microsoft SQL Server)
 
 ### 🐍 Programming Languages
-- **Python** (Data Analysis & Scripting)
+- **Python** (Programming Fundamentals & Core Concepts)
 
 ---
 
