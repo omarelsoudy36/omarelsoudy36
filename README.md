@@ -33,7 +33,7 @@ I am a passionate **Junior Data Engineer** and a student of **Communications and
 
 
 ---
-⚡ *“In God we trust, all others must bring data.”*
+⚡ *“In Allah we trust, all others must bring data.”*
 
 
 
