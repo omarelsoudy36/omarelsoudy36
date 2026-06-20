@@ -1,4 +1,5 @@
-<img width="1280" height="422" alt="banner git" src="https://github.com/user-attachments/assets/b034ea26-fcf4-484f-ab0b-c932ae2a6ca0" />
+<img width="1280" height="375" alt="banner git" src="https://github.com/user-attachments/assets/84c8c873-8f12-470e-aef5-bd2f08c55c19" />
+
 
 
 # Hi there, I'm Omar Elsoudy! 👋
